@@ -1,4 +1,4 @@
-package br.fib;
+package br.estrutura;
 
 public interface Persistencia {
 	

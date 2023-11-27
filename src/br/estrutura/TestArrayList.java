@@ -1,4 +1,4 @@
-package br.fib;
+package br.estrutura;
 
 import java.util.ArrayList;
 import java.util.Collections;

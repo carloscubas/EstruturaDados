@@ -1,4 +1,4 @@
-package br.fib;
+package br.estrutura;
 
 public class Main {
 	public static void main(String[] args) {
